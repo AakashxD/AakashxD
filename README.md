@@ -1,4 +1,4 @@
-# Passionate Frontend Developer from India
+# Passionate Fullstack Developer from India
 
 ### 🚀 Currently Working On: [CRM APP](https://github.com/AakashxD/CRM_REACT)
 ### 📗 Learning: Go Lang
