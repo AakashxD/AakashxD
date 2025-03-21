@@ -8,7 +8,7 @@
 ## 🚀 Languages and Tools
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,mongodb,html,css,tailwind,go,docker,postgres,nginx,python,git" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,mongodb,html,css,tailwind,go,docker,postgres,nginx,python" /></a>
 </p>
 
 
