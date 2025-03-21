@@ -26,9 +26,9 @@
 
 ## 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakashxD&layout=compact&theme=dark" />
 </p>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=AakashxD&show_icons=true&theme=dark" />
 </p>
