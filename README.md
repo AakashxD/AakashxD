@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aakash Singh
-- 👀 I’m interested in ... Fullstack web development and devops.
+- 👀 I’m interested in web development and devops.
 - 🌱 I’m currently learning GO.
  <!---
 - 💞️ I’m looking to collaborate on ...
