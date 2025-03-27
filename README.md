@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 About Me  
 - 🌟 Currently Building: [Cloud IDE](https://github.com/AakashxD/Cloud_IDE)  
-- 🔥 Experienced in **MERN Stack ,Next.js**   
+- 🔥 Experienced in **MERN Stack & Next.js**   
 - 🌍 Passionate about building **scalable web applications**  
 - 📘 Currently learning **Golang & DevOps** 
 🔗 Connect with Me: [LinkedIn](#)  
