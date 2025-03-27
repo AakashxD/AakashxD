@@ -1,8 +1,10 @@
 # 🚀 Hey there! I'm Aakash, a Passionate Fullstack Developer  
 
-🌟 Currently Building: [Cloud IDE](https://github.com/AakashxD/Cloud_IDE)  
-📘 Learning: Golang & DevOps  
-💡 Ask Me About: Go, Node.js, React, JavaScript, Express.js  
+## 🧑‍💻 About Me  
+- 🌟 Currently Building: [Cloud IDE](https://github.com/AakashxD/Cloud_IDE)  
+- 🔥 Experienced in **MERN Stack** (MongoDB, Express.js, React, Node.js)  
+- 🌍 Passionate about building **scalable web applications**  
+- 📘 Currently learning **Golang & DevOps** 
 🔗 Connect with Me: [LinkedIn](#)  
 
 ---
