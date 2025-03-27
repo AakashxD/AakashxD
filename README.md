@@ -1,23 +1,27 @@
-# Passionate Fullstack Developer from India
+# 🚀 Hey there! I'm Aakash, a Passionate Fullstack Developer  
 
-### 🚀 Currently Working On: [Cloud IDE](https://github.com/AakashxD/Cloud_IDE)
-### 📗 Learning: Go Lang
-### 💬 Ask Me About: Go, Node.js, React, JavaScript,express.js.
-### 🔗 Reach Me: [LinkedIn](#)
+🌟 Currently Building: [Cloud IDE](https://github.com/AakashxD/Cloud_IDE)  
+📘 Learning: Golang & DevOps  
+💡 Ask Me About: Go, Node.js, React, JavaScript, Express.js  
+🔗 Connect with Me: [LinkedIn](#)  
 
-## 🚀 Languages and Tools
+---
+
+## 🛠️ Tech Stack  
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,mongodb,html,css,tailwind,go,docker,postgres,nginx,python" /></a>
+  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,mongodb,html,css,tailwind,go,docker,postgres,nginx,python" />
 </p>
 
+---
 
+## 📊 GitHub Stats  
 
-## 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakashxD&layout=compact&theme=dark" />
-</p>
+<div align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=AakashxD&show_icons=true&theme=dark&hide_border=true" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakashxD&layout=compact&theme=dark&hide_border=true" />
+</div>
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=AakashxD&show_icons=true&theme=dark" />
-</p>
+---
+
+💡 **Let's build something awesome together!** 🚀  
