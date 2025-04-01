@@ -14,12 +14,5 @@
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakashxD&layout=compact&theme=dark&hide_border=true" />
 </div>
 
-#
----
 
 💡 **Let's build something awesome together!** 🚀
-## 📈 GitHub Contribution Graph  
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AakashxD/YOUR_REPOSITORY_NAME/main/Screenshot%202025-04-01%20183656.png" alt="GitHub Contribution Graph" />
-</div>
