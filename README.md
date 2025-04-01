@@ -7,15 +7,6 @@
 - 📘 Currently learning **Golang & DevOps** 
 🔗 Connect with Me: [LinkedIn](#)  
 
----
-
-## 🛠️ Tech Stack  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,mongodb,html,css,tailwind,go,docker,postgres,nginx,python" />
-</p>
-
----
 
 ## 📊 GitHub Stats  
 
