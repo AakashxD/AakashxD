@@ -5,7 +5,7 @@
 - 🔥 Experienced in **MERN Stack & Next.js**   
 - 🌍 Passionate about building **scalable web applications**  
 - 📘 Currently learning **Golang**  
-🔗 Connect with Me: [LinkedIn](#)  
+🔗 Connect with Me: [LinkedIn](https://www.linkedin.com/in/aakash-singh-0057a7258/)  
 
 ## 📊 GitHub Stats  
 
